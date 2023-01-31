@@ -1,0 +1,5 @@
+fastapi
+pydantic
+image-quality
+uvicorn
+python-multipart
